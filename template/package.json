@@ -1,0 +1,15 @@
+{
+  "name": "start",
+  "version": "1.0.0",
+  "description": "a starter p5js app",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "leo li",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
