@@ -1,7 +1,7 @@
 {
-  "name": "start",
+  "name": "Project_One",
   "version": "1.0.0",
-  "description": "a starter p5js app",
+  "description": "Project One app",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
